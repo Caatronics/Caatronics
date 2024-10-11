@@ -18,11 +18,6 @@ Atualmente, estamos focados no desenvolvimento de robôs de combate para competi
 Nosso desejo é expandir nossos horizontes, participando de mais competições e explorando novas áreas da robótica. Nossa paixão por tecnologia vai muito além das arenas, e estamos comprometidos em impactar a sociedade com inovação e desenvolvimento.
 
 ##
-### 🛠️ Projetos e Colaborações
-
-Nossos projetos são de código aberto, e incentivamos outros entusiastas da robótica a colaborar, aprender e crescer conosco. Se você quer fazer parte dessa jornada ou se interessar por nossos projetos, estamos sempre abertos para colaboração!
-
-##
 ### 🔗 Entre em Contato
 
 Acompanhe nossa jornada em impulsionar a robótica no Vale do São Francisco!
