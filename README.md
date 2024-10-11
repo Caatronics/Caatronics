@@ -23,7 +23,7 @@ Nosso desejo é expandir nossos horizontes, participando de mais competições e
 Nossos projetos são de código aberto, e incentivamos outros entusiastas da robótica a colaborar, aprender e crescer conosco. Se você quer fazer parte dessa jornada ou se interessar por nossos projetos, estamos sempre abertos para colaboração!
 
 ##
-### Entre em Contato
+### 🔗 Entre em Contato
 
 Acompanhe nossa jornada em impulsionar a robótica no Vale do São Francisco!
 
